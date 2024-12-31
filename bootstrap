@@ -1,0 +1,7 @@
+-jar jresolve.jar
+--output-directory project/lib
+--use-module-names
+--purge-output-directory
+pkg:maven/info.picocli/picocli@4.7.6
+pkg:maven/dev.mccue/tools-jdk@2024.09.03
+pkg:maven/commons-io/commons-io@2.18.0

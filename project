@@ -1,0 +1,3 @@
+--module-path project_build/lib
+--add-modules ALL-MODULE-PATH
+project_build/src/Project.java
